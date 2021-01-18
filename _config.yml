@@ -1,5 +1,4 @@
 title: 執劍行天下
 description: 執劍行天下.
-show_downloads: true
-google_analytics:
+show_downloads: false
 theme: jekyll-theme-modernist
